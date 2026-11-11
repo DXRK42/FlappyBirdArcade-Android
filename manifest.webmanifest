@@ -1,0 +1,17 @@
+{
+  "name": "Flappy Bird Arcade Edition",
+  "short_name": "Flappy Arcade",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101a2e",
+  "theme_color": "#17233d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

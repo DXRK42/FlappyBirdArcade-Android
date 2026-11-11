@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Flappy Bird Arcade Edition</string>
+    <string name="title_activity_main">Flappy Bird Arcade Edition</string>
+    <string name="package_name">com.arcade.flappybird</string>
+    <string name="custom_url_scheme">com.arcade.flappybird</string>
+</resources>
